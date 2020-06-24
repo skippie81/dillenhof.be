@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<Slides>
+<slideNode jpegURL="dcdb.jpg" thumbURL="dcdbt.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="602f.jpg" thumbURL="602ft.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="548.jpg" thumbURL="548t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="235d.jpg" thumbURL="235dt.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="fb70.jpg" thumbURL="fb70t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="9c98.jpg" thumbURL="9c98t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="7cd8.jpg" thumbURL="7cd8t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="7509.jpg" thumbURL="7509t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+</Slides>
+<setup>
+	<infoNode 
+		sliderposxshift="true"
+		of=" van "
+		sec="sec"
+		PhotoWMax="800"
+		PhotoHMax="600"
+		captionx="400" 
+		captiony="480" 
+		mymusictrack = ""
+		thumbblocklength="8" 
+		fontcolor="0x000000"
+		sliderposx = "568"
+		sliderposy = "4"
+		slideimagein="false"
+		slidervis="true" 
+		verticalthumbs ="false" 
+		slideinimagenudge="false" 
+		thumbxLoc= "0"  
+		photoYLoc="-1" 
+		photoXLoc="0" 
+		thumbyLoc= "570" 
+		thumbsvis= "true" 
+		thumbsize= "50" 
+		thumbgap= "5"  
+		thumbygap= "0" 
+		blur="20" 
+		reflection="false" 
+		popslide="true"
+		popborder="true"
+		sliderdoc = "true"
+		AutoHideControls = "false"
+		Autoplay="false"
+		Sliderdefault="5"
+		>
+	</infoNode>
+</setup>
+ 

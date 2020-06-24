@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<Slides>
+<slideNode jpegURL="484e.jpg" thumbURL="484et.jpg" jpegWidth="350" jpegHeight="262"></slideNode>
+<slideNode jpegURL="a038.jpg" thumbURL="a038t.jpg" jpegWidth="350" jpegHeight="262"></slideNode>
+<slideNode jpegURL="e68.jpg" thumbURL="e68t.jpg" jpegWidth="662" jpegHeight="439"></slideNode>
+<slideNode jpegURL="9c8.jpg" thumbURL="9c8t.jpg" jpegWidth="350" jpegHeight="262"></slideNode>
+<slideNode jpegURL="e264.jpg" thumbURL="e264t.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="e1b1.jpg" thumbURL="e1b1t.jpg" jpegWidth="350" jpegHeight="263"></slideNode>
+<slideNode jpegURL="1ca4.jpg" thumbURL="1ca4t.jpg" jpegWidth="350" jpegHeight="263"></slideNode>
+<slideNode jpegURL="1ce2.jpg" thumbURL="1ce2t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="625b.jpg" thumbURL="625bt.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="dd48.jpg" thumbURL="dd48t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="a7a6.jpg" thumbURL="a7a6t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="d194.jpg" thumbURL="d194t.jpg" jpegWidth="350" jpegHeight="232"></slideNode>
+<slideNode jpegURL="9c4f.jpg" thumbURL="9c4ft.jpg" jpegWidth="500" jpegHeight="375"></slideNode>
+</Slides>
+<setup>
+	<infoNode 
+		sliderposxshift="true"
+		of=" van "
+		sec="sec"
+		PhotoWMax="800"
+		PhotoHMax="600"
+		captionx="400" 
+		captiony="480" 
+		mymusictrack = ""
+		thumbblocklength="8" 
+		fontcolor="0x000000"
+		sliderposx = "568"
+		sliderposy = "4"
+		slideimagein="false"
+		slidervis="true" 
+		verticalthumbs ="false" 
+		slideinimagenudge="false" 
+		thumbxLoc= "0"  
+		photoYLoc="-1" 
+		photoXLoc="0" 
+		thumbyLoc= "570" 
+		thumbsvis= "true" 
+		thumbsize= "50" 
+		thumbgap= "5"  
+		thumbygap= "0" 
+		blur="20" 
+		reflection="false" 
+		popslide="true"
+		popborder="true"
+		sliderdoc = "true"
+		AutoHideControls = "false"
+		Autoplay="false"
+		Sliderdefault="5"
+		>
+	</infoNode>
+</setup>
+ 
